@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mylène Berruyer
 
-<!--
-**myleneberru/myleneberru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Neuro-X — EPFL** | ML Engineer · Clinical AI · Data Science
 
-Here are some ideas to get you started:
+I build machine learning systems at the intersection of neuroscience and healthcare, from wearable ECG models to multimodal medical LLMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Work
+
+### 🫀 Atrial Fibrillation Prediction · Harvard Medical School / NezamiLab
+Transfer learning from a spatio-temporal ECG foundation model (ST-MEM) for AF prediction on wearable and ICU data.  
+`AUROC 0.912` · `PyTorch` · `Time-series` · `Transfer learning`  
+*[Code under NDA — available on request]*
+
+### 🧠 Multimodal Medical LLM (Meditron) · EPFL LIGHT Lab
+Extended a medical LLM with vision capabilities: data pipeline (~1M MRI/CT entries), CLIP fine-tuning, GPT-based clinical evaluation framework.  
+`Python` · `CLIP` · `OpenAI API` · `Medical imaging`
+
+### 🛣️ Semantic Segmentation · EPFL CS-433
+U-Net road segmentation with iterative transfer learning — outperforming SAM (ViT-based) baseline.  
+`F1 89.2%` · `Accuracy 94.1%` · `PyTorch` · `U-Net`  
+→ [repo link]
+
+### 📊 Predicting Movie Endings · EPFL ADA
+Large-scale analysis of narrative patterns in film using NLP and statistical modeling.  
+`Python` · `pandas` · `NLP` · `Data storytelling`  
+→ [repo link]
+
+---
+
+## Skills
+
+`Python` `PyTorch` `MATLAB` `SQL` · `EEG/ECG signal processing` · `Transfer learning` · `LLMs` · `Clinical AI`
+
+---
+
+📍 Geneva / Boston &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mylène-berruyer/) &nbsp;|&nbsp; mylene.berruyer@epfl.ch
