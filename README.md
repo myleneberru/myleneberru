@@ -8,21 +8,21 @@ I build machine learning systems at the intersection of neuroscience and healthc
 
 ## Featured Work
 
-### 🫀 Atrial Fibrillation Prediction · Harvard Medical School / NezamiLab
+### Atrial Fibrillation Prediction · Harvard Medical School / NezamiLab
 Transfer learning from a spatio-temporal ECG foundation model (ST-MEM) for AF prediction on wearable and ICU data.  
 `AUROC 0.912` · `PyTorch` · `Time-series` · `Transfer learning`  
 *[Code under NDA — available on request]*
 
-### 🧠 Multimodal Medical LLM (Meditron) · EPFL LIGHT Lab
+### Multimodal Medical LLM (Meditron) · EPFL LIGHT Lab
 Extended a medical LLM with vision capabilities: data pipeline (~1M MRI/CT entries), CLIP fine-tuning, GPT-based clinical evaluation framework.  
 `Python` · `CLIP` · `OpenAI API` · `Medical imaging`
 
-### 🛣️ Semantic Segmentation · EPFL CS-433
+### Semantic Segmentation · EPFL CS-433
 U-Net road segmentation with iterative transfer learning — outperforming SAM (ViT-based) baseline.  
 `F1 89.2%` · `Accuracy 94.1%` · `PyTorch` · `U-Net`  
-→ [repo link]
+→ [[repo link](https://github.com/myleneberru/road-segmentation)]
 
-### 📊 Predicting Movie Endings · EPFL ADA
+### Predicting Movie Endings · EPFL ADA
 Large-scale analysis of narrative patterns in film using NLP and statistical modeling.  
 `Python` · `pandas` · `NLP` · `Data storytelling`  
 → [repo link]
