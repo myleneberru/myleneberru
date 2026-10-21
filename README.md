@@ -17,12 +17,12 @@ Transfer learning from a spatio-temporal ECG foundation model (ST-MEM) for AF pr
 Extended a medical LLM with vision capabilities: data pipeline (~1M MRI/CT entries), CLIP fine-tuning, GPT-based clinical evaluation framework.  
 `Python` · `CLIP` · `OpenAI API` · `Medical imaging`
 
-### Semantic Segmentation · EPFL CS-433
+### Semantic Segmentation · EPFL 
 U-Net road segmentation with iterative transfer learning — outperforming SAM (ViT-based) baseline.  
 `F1 89.2%` · `Accuracy 94.1%` · `PyTorch` · `U-Net`  
 → [[repo link](https://github.com/myleneberru/road-segmentation)]
 
-### Predicting Movie Endings · EPFL ADA
+### Predicting Movie Endings · EPFL 
 Large-scale analysis of narrative patterns in film using NLP and statistical modeling.  
 `Python` · `pandas` · `NLP` · `Data storytelling`  
 → [repo link]
