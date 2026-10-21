@@ -27,6 +27,12 @@ Large-scale analysis of narrative patterns in film using NLP and statistical mod
 `Python` · `pandas` · `NLP` · `Data storytelling`  
 → [repo link]
 
+### The Dreamweaver's Maze · EPFL 
+Immersive VR adventure game across enchanted worlds (dungeon, magic garden, crystal mine) — built with physics-based interactions, a magic wand system, and a minecart locomotion mechanic.  
+`Unity` · `C#` · `Meta Quest` · `XR Interaction Toolkit`  
+→ [CS-444-VR](https://github.com/myleneberru/CS-444-VR) · [Demo (5 min)](https://youtu.be/7fKR0kQXZP4)
+
+
 ---
 
 ## Skills
