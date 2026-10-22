@@ -28,10 +28,10 @@ U-Net road segmentation with iterative transfer learning — outperforming SAM (
 `F1 89.2%` · `Accuracy 94.1%` · `PyTorch` · `U-Net`  
 → [semantic-segmentation](https://github.com/myleneberru/road-segmentation)
 
-### Predicting Movie Endings · EPFL 
-Large-scale analysis of narrative patterns in film using NLP and statistical modeling.  
-`Python` · `pandas` · `NLP` · `Data storytelling`  
-→ [repo link]
+### End of a Movie: Predictable or Not? · EPFL 
+Large-scale analysis of movie endings across 12,000+ films — genre, cultural, temporal, and franchise effects on narrative predictability.  
+`Python` · `pandas` · `NLP` · `Statistical modeling` · `Data storytelling`  
+→ [GitHub](https://github.com/epfl-ada/ada-2024-project-bigdada) · [Data Story](https://epfl-ada.github.io/ada-2024-project-bigdada/)
 
 ### The Dreamweaver's Maze · EPFL 
 Immersive VR adventure game across enchanted worlds (dungeon, magic garden, crystal mine) — built with physics-based interactions, a magic wand system, and a minecart locomotion mechanic.  
