@@ -22,6 +22,10 @@ Self-supervised pre-training on ~60K synthetic RGB-depth-segmentation triplets; 
 `PyTorch` · `Transformers` · `Synthetic data` · `ADE20K · NYUv2`  
 → [multimodal-depth-estimation](https://github.com/myleneberru/multimodal-depth-estimation)
 
+### Brain-Like Neural Prediction · EPFL
+Benchmarked 8+ CNN architectures (data-driven & task-driven) for predicting IT cortex neural responses to images.  
+`Best R²=0.363` · `Correlation=0.649` · `ResNet50 · VGG16 · Custom CNN` · `PyTorch`  
+→ [brain-like-neural-prediction](https://github.com/myleneberru/brain-like-neural-prediction)
 
 ### Semantic Segmentation · EPFL 
 U-Net road segmentation with iterative transfer learning — outperforming SAM (ViT-based) baseline.  
