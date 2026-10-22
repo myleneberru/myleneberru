@@ -13,9 +13,10 @@ Transfer learning from a spatio-temporal ECG foundation model (ST-MEM) for AF pr
 `AUROC 0.912` · `PyTorch` · `Time-series` · `Transfer learning`  
 *[Code under NDA — available on request]*
 
-### Multimodal Medical LLM (Meditron) · EPFL LIGHT Lab
-Extended a medical LLM with vision capabilities: data pipeline (~1M MRI/CT entries), CLIP fine-tuning, GPT-based clinical evaluation framework.  
-`Python` · `CLIP` · `OpenAI API` · `Medical imaging`
+### Multimodal Medical LLM (MultiMeditron) · EPFL LIGHT Lab
+Extended a medical LLM with vision capabilities: data pipeline (~1M MRI/CT entries), CLIP fine-tuning, GPT-4-based clinical evaluation across 5 axes (accuracy, completeness, instruction following, communication, context awareness).  
+`Python` · `CLIP` · `OpenAI API` · `Medical imaging` · `GMAI-MMBench`  
+→ [Multimeditron-pipeline](https://github.com/slne18/Multimeditron-pipeline)
 
 ### Multimodal Depth Estimation (MultiMAE) · EPFL Visual Intelligence
 Self-supervised pre-training on ~60K synthetic RGB-depth-segmentation triplets; synthetic ground-truth outperforms pseudo-labels on monocular depth estimation.  
