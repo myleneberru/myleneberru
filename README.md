@@ -26,7 +26,7 @@ Self-supervised pre-training on ~60K synthetic RGB-depth-segmentation triplets; 
 ### Semantic Segmentation · EPFL 
 U-Net road segmentation with iterative transfer learning — outperforming SAM (ViT-based) baseline.  
 `F1 89.2%` · `Accuracy 94.1%` · `PyTorch` · `U-Net`  
-→ [[repo link](https://github.com/myleneberru/road-segmentation)]
+→ [semantic-segmentation](https://github.com/myleneberru/road-segmentation)
 
 ### Predicting Movie Endings · EPFL 
 Large-scale analysis of narrative patterns in film using NLP and statistical modeling.  
